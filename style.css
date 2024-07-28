@@ -1,0 +1,64 @@
+* {
+    font-family: 'Recursive', sans-serif;
+}
+
+.contain {
+    margin: auto;
+    text-align: center;
+    border: 1px solid; 
+    width: 600px;
+}
+
+/* #todoItem {
+    margin: 0 auto;
+} */
+
+#todoItem {
+    border: 1px solid;
+    height: 20px;
+    width: 200px;
+}
+
+.todo-adder{
+    background-color: lightgreen;
+    height: 50px;
+    border: none;
+    width: 100px;
+    margin: 10px;
+    color: white;
+}
+
+.Todo-clear {
+    background-color: lightskyblue;
+    height: 50px;
+    border: none;
+    width: 150px;
+    color: white;
+}
+
+.editButton {
+    background-color: lightslategray;
+    height: 50px;
+    border: none;
+    width: 150px;
+    margin: 10px;
+    color: white;
+}
+
+.todoDelete {
+    background-color: red;
+    height: 50px;
+    border: none;
+    width: 150px;
+    margin: 10px;
+    color: white;
+}
+
+.compalitedTodo {
+    background-color: royalblue;
+    height: 50px;
+    border: none;
+    width: 150px;
+    margin: 10px;
+    color: white;
+}
